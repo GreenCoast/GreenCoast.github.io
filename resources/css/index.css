@@ -1,0 +1,9 @@
+.content {
+    position: relative;
+    text-align: center;
+    background: url(./college-graduates-1220x665.jpg);
+    background-size: cover;
+    height: 700px;
+    width: 1200px;
+    }
+}
